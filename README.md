@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tcho131
+* Hello 👋, I’m Tina, a data storyteller and design-minded student of Data Science.
 - 🌱 I’m currently enrolled @UCI CE Data Science Certificate program
 - 💫 From Communication Designer ➡️ Data Scientist
 - ⚡ Fun fact: ˣˣˣi ♥️ cross stitchˣˣˣ
